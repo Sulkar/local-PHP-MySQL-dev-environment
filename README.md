@@ -1,4 +1,4 @@
-# SQLverine-website
+# simple local PHP + MySQL dev environment
 
 ## Docker setup
 - download Docker
