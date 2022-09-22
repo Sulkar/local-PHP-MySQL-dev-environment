@@ -15,19 +15,11 @@
 - User: `tutorial`
 - Passwort: `secret`
 
-## SQL Tables
-CREATE TABLE users (
-    id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    username varchar(100) NOT NULL, 
-    password varchar(100) NOT NULL
-);
-
-CREATE TABLE texte (
-    id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    titel varchar(100),
-    text TEXT,
-    code varchar(10)
-);
-
 ## Infos
+- ...
+
+## index.php
+![index](./www/images/info1.png)
+
+## Links
 - [https://www.sitepoint.com/docker-php-development-environment/](https://www.sitepoint.com/docker-php-development-environment/)

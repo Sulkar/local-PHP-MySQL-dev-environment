@@ -1,0 +1,13 @@
+
+#txtSQLData{
+    width: 90%;
+}
+.hide{
+    display: none;
+}
+#head_success{
+    background-color: greenyellow;
+}
+#head_error{
+    background-color: red;
+}
